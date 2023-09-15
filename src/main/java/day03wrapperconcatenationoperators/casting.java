@@ -6,3 +6,4 @@ public class casting {
         int ageInt =age;
     }
 }
+// deneme
